@@ -116,22 +116,6 @@ VID_XXXX&PID_YYYY  # Blocked device
 - Registry-based device blocking
 - Service-level device management
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Disclaimer
 
 This software is designed for legitimate security purposes. Users are responsible for compliance with local laws and regulations regarding device monitoring and access control.
-
-## Support
-
-For issues and support, please create an issue in the GitHub repository.
